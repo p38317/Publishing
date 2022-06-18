@@ -1,0 +1,22 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <nav class="gnb">
+      <ul>
+        <li>logo</li>
+        <li>setting icon</li>
+      </ul>
+    </nav>
+    <aside class="lng">
+      <ul>
+        <li>menu 1</li>
+        <li>menu 2</li>
+      </ul>
+    </aside>
+    <div>
+      <iframe>
+      </iframe>
+    </div>
+  </body>
+</html>
